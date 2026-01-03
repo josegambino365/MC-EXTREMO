@@ -1,0 +1,207 @@
+[00:00:32] [Server thread/INFO]: Luciii_sk has made the advancement [Diamonds!]
+[00:01:49] [Server thread/INFO]: _yeisi_ has made the advancement [Suit Up]
+[00:02:34] [Server thread/INFO]: _yeisi_ has made the advancement [Not Today, Thank You]
+[00:03:36] [Server thread/INFO]: _yeisi_ has made the advancement [Diamonds!]
+[00:11:28] [Server thread/INFO]: _yeisi_ has made the advancement [Sneak 100]
+[00:20:25] [Server thread/INFO]: _yeisi_ has made the advancement [Ice Bucket Challenge]
+[00:22:56] [Server thread/INFO]: Luciii_sk has made the advancement [Not Today, Thank You]
+[00:30:06] [Async Chat Thread - #0/INFO]: [Not Secure] <_yeisi_> zzz
+[00:32:39] [Paper Common Worker #0/ERROR]: Failed to fetch mob spawner entity at (-595, 40, -448)
+[00:35:38] [Server thread/INFO]: Luciii_sk has made the advancement [Cover Me with Diamonds]
+[00:36:12] [Server thread/INFO]: _yeisi_ has made the advancement [Cover Me with Diamonds]
+[00:37:11] [Server thread/INFO]: Luciii_sk has made the advancement [Ice Bucket Challenge]
+[00:38:44] [Server thread/INFO]: Luciii_sk has made the advancement [We Need to Go Deeper]
+[00:38:56] [Server thread/INFO]: _yeisi_ has made the advancement [We Need to Go Deeper]
+[00:43:52] [Server thread/INFO]: _yeisi_ has made the advancement [Who is Cutting Onions?]
+[00:44:47] [Server thread/INFO]: Luciii_sk has made the advancement [Who is Cutting Onions?]
+[00:48:03] [Server thread/INFO]: Luciii_sk has completed the challenge [Return to Sender]
+[01:59:34] [Server thread/INFO]: Luciii_sk has made the advancement [A Terrible Fortress]
+[01:59:39] [Server thread/INFO]: _yeisi_ has made the advancement [A Terrible Fortress]
+[02:00:22] [Server thread/INFO]: Luciii_sk has made the advancement [Spooky Scary Skeleton]
+[02:02:17] [Server thread/INFO]: Luciii_sk has made the advancement [Into Fire]
+[02:02:17] [Server thread/INFO]: _yeisi_ has made the advancement [Into Fire]
+[02:33:41] [Server thread/INFO]: _yeisi_ has made the advancement [Eye Spy]
+[02:35:44] [Server thread/INFO]: Luciii_sk has made the advancement [Eye Spy]
+[02:43:28] [Server thread/INFO]: _yeisi_ has made the advancement [Enchanter]
+[02:43:56] [Server thread/INFO]: Luciii_sk has made the advancement [Enchanter]
+[02:49:16] [Server thread/INFO]: Unknown or incomplete command. See below for error
+a<--[HERE]
+[03:04:25] [Server thread/INFO]: Luciii_sk has made the advancement [The End?]
+[03:04:26] [Server thread/INFO]: _yeisi_ has made the advancement [The End?]
+[03:04:28] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[03:04:28] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[03:06:34] [Server thread/INFO]: Luciii_sk has made the advancement [Take Aim]
+[03:15:08] [Server thread/INFO]: _yeisi_ has made the advancement [Take Aim]
+[03:17:59] [Server thread/INFO]: _yeisi_ has made the advancement [Free the End]
+[03:27:19] [Server thread/INFO]: _yeisi_ fell from a high place
+[03:27:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:27:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:27:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:27:19] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:27:19] [Server thread/INFO]: [Fahare] Deleting folder ./world_nether
+[03:27:20] [Server thread/INFO]: Selecting spawn point for world 'minecraft:the_nether'...
+[03:27:20] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[03:27:20] [Server thread/INFO]: Preparing spawn area: 100%
+[03:27:20] [Server thread/INFO]: Prepared spawn area in 641 ms
+[03:27:20] [Server thread/INFO]: Regenerated world_nether
+[03:27:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:27:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:27:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:27:20] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:27:20] [Server thread/INFO]: [Fahare] Deleting folder ./world_the_end
+[03:27:21] [Server thread/INFO]: Selecting spawn point for world 'minecraft:the_end'...
+[03:27:21] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[03:27:21] [Server thread/INFO]: Preparing spawn area: 100%
+[03:27:21] [Server thread/INFO]: Prepared spawn area in 290 ms
+[03:27:21] [Server thread/INFO]: Regenerated world_the_end
+[03:27:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'overworld'
+[03:27:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'overworld'
+[03:27:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'overworld'
+[03:27:21] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'overworld'
+[03:27:23] [Server thread/INFO]: [Fahare] Deleting folder ./overworld
+[03:27:23] [Server thread/INFO]: Selecting spawn point for world 'fahare:overworld'...
+[03:27:31] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.10-117-df4b668 (MC: 1.21.10) ---
+[03:27:31] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[03:27:31] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:27:31] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[03:27:31] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
+[03:27:31] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( 3,0) in 'overworld']
+[03:27:31] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=overworld, chunkX=3, chunkZ=0, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:empty}, currentGenStatus=minecraft:empty, requestedGenStatus=minecraft:full, generationTask=ChunkProgressionTask{class: ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask, for world: overworld, chunk: (3,0), hashcode: 156768287, priority: COMPLETING, status: minecraft:structure_starts, scheduled: true}, generationTaskStatus=minecraft:structure_starts, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=null, effective_priority=BLOCKING, oldTicketLevel=33, currentTicketLevel=33, totalNeighboursUsingThisChunk=1, fullNeighbourChunksLoadedBitset=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
+[03:27:31] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:27:31] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:27:31] [Paper Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: TIMED_WAITING
+[03:27:31] [Paper Watchdog Thread/ERROR]: 	Stack:
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:171)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:161)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.managedBlock(ServerChunkCache.java:802)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.syncLoad(ServerChunkCache.java:122)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunkFallback(ServerChunkCache.java:156)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:321)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:960)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerSpawnFinder.getOverworldRespawnPos(PlayerSpawnFinder.java:156)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerSpawnFinder.getSpawnPosInChunk(PlayerSpawnFinder.java:191)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.setInitialSpawn(MinecraftServer.java:851)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.initWorld(MinecraftServer.java:741)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.createWorld(CraftServer.java:1309)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.createWorld(Bukkit.java:828)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		org.bukkit.WorldCreator.createWorld(WorldCreator.java:494)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1.jar//dev.qixils.fahare.Fahare.deleteNextWorld(Fahare.java:220)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1.jar//dev.qixils.fahare.Fahare.lambda$deleteNextWorld$5(Fahare.java:231)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1.jar//dev.qixils.fahare.Fahare$$Lambda/0x000071c1b54291b0.run(Unknown Source)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1744)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1618)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1338)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000071c1b4f6f200.run(Unknown Source)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[03:27:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[03:27:31] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:27:31] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[03:27:31] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:27:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.10-117-df4b668 (MC: 1.21.10) ---
+[03:27:36] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[03:27:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:27:36] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[03:27:36] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
+[03:27:36] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( 3,0) in 'overworld']
+[03:27:36] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=overworld, chunkX=3, chunkZ=0, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:initialize_light}, currentGenStatus=minecraft:initialize_light, requestedGenStatus=minecraft:full, generationTask=null, generationTaskStatus=null, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=null, effective_priority=BLOCKING, oldTicketLevel=33, currentTicketLevel=33, totalNeighboursUsingThisChunk=16, fullNeighbourChunksLoadedBitset=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
+[03:27:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:27:36] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:27:36] [Paper Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: TIMED_WAITING
+[03:27:36] [Paper Watchdog Thread/ERROR]: 	Stack:
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:171)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:161)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.managedBlock(ServerChunkCache.java:802)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.syncLoad(ServerChunkCache.java:122)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunkFallback(ServerChunkCache.java:156)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:321)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:960)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerSpawnFinder.getOverworldRespawnPos(PlayerSpawnFinder.java:156)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerSpawnFinder.getSpawnPosInChunk(PlayerSpawnFinder.java:191)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.setInitialSpawn(MinecraftServer.java:851)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.initWorld(MinecraftServer.java:741)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.createWorld(CraftServer.java:1309)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.createWorld(Bukkit.java:828)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		org.bukkit.WorldCreator.createWorld(WorldCreator.java:494)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1.jar//dev.qixils.fahare.Fahare.deleteNextWorld(Fahare.java:220)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1.jar//dev.qixils.fahare.Fahare.lambda$deleteNextWorld$5(Fahare.java:231)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1.jar//dev.qixils.fahare.Fahare$$Lambda/0x000071c1b54291b0.run(Unknown Source)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1744)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1618)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1338)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000071c1b4f6f200.run(Unknown Source)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[03:27:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[03:27:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:27:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[03:27:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:27:36] [Server thread/INFO]: Loading 0 persistent chunks for world 'fahare:overworld'...
+[03:27:36] [Server thread/INFO]: Preparing spawn area: 100%
+[03:27:36] [Server thread/INFO]: Prepared spawn area in 13012 ms
+[03:27:36] [Server thread/INFO]: Regenerated overworld
+[03:27:36] [Server thread/INFO]: _yeisi_ lost connection: Disconnected
+[03:27:36] [Server thread/INFO]: _yeisi_ left the game
+[03:27:36] [Server thread/INFO]: Luciii_sk lost connection: Disconnected
+[03:27:36] [Server thread/INFO]: Luciii_sk left the game
+[03:27:48] [Server thread/INFO]: Stopping the server
+[03:27:48] [Server thread/INFO]: Stopping server
+[03:27:48] [Server thread/INFO]: [Fahare] Disabling Fahare v1.2.1
+[03:27:48] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.2
+[03:27:48] [Server thread/INFO]: Saving players
+[03:27:48] [Server thread/INFO]: Saving worlds
+[03:27:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:27:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[limbo]'/fahare:limbo
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'limbo'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'limbo'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'limbo'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'limbo' in 0.01s
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'limbo'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'limbo'
+[03:27:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:27:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:27:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[overworld]'/fahare:overworld
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'overworld'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'overworld'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'overworld'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'overworld' in 0.02s
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'overworld'
+[03:27:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'overworld'
+[03:27:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:27:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (limbo): All chunks are saved
+[03:27:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:27:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:27:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (overworld): All chunks are saved
+[03:27:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:27:48] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:27:48] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:27:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:27:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
